@@ -19,6 +19,26 @@ The application is built using *Streamlit* and the *OpenRouter API*.
 - 📄 PDF Analysis
 - 🤖 Intelligent task routing using a Coordinator Agent
 
+## 📸 Application Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### AI Chatbot
+![Chatbot](screenshots/chatbot.png)
+
+### Study Planner
+![Study Planner](screenshots/study_planner.png)
+
+### PPT Generator
+![PPT Generator](screenshots/ppt_generator.png)
+
+### Generated PowerPoint
+![Generated PPT](screenshots/generated_ppt.png)
+
+### GitHub Repository
+![GitHub](screenshots/github_repo.png)
+
 ## 🧠 How It Works
 
 ```text
