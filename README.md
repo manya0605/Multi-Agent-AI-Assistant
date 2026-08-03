@@ -95,6 +95,10 @@ Run the Streamlit application using:
 streamlit run app.py
 Then open the local URL shown in the terminal.
 
+## 🚀 Live Demo
+Try the live application here:
+https://multi-agent-ai-assistant-7gz55t2chm9qapbjndrjc.streamlit.app
+
 ## 🎯 Applications
 This project can help students with:
 Academic question answering
@@ -115,8 +119,9 @@ User authentication and saved conversations
 Deployment as a cloud application
 
 ## 👩‍💻 Author
-Manya M V
-Academic project demonstrating the use of Artificial Intelligence, Multi-Agent Systems, Python, and Streamlit to build an intelligent student assistant.
+*Manya M V*
+Electronics & Communication Engineering Student
+GitHub: https://github.com/manya0605
 
 ## ⭐ If you find this project useful, consider giving the repository a star!
 
