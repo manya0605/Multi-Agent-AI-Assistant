@@ -95,6 +95,16 @@ Run the Streamlit application using:
 streamlit run app.py
 Then open the local URL shown in the terminal.
 
+## 🎬 Project Demo
+
+### ⚡ 45-Second Highlight
+[▶️ Watch the 45-sec demo]:
+(https://github.com/user-attachments/assets/336a22a9-a6ee-4d2b-94b2-dfa4813fde67)
+
+### 🎥 Full Project Demonstration
+[▶️ Watch the full 4:42 demo]:
+https://github.com/user-attachments/assets/5abe64b0-d28c-464e-823b-9f8abb036cce
+
 ## 🚀 Live Demo
 Try the live application here:
 https://multi-agent-ai-assistant-7gz55t2chm9qapbjndrjc.streamlit.app
